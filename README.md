@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lukas-Nielsen
+- 👀 I’m interested in swimming
+- 🌱 I’m currently learning go and react
